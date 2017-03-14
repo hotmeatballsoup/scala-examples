@@ -1,0 +1,22 @@
+products:
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGround.scala -> shared/build/classes/main/hotmeatballsoup/provingground/shared/app/ProvingGround.class
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> shared/build/classes/main/hotmeatballsoup/provingground/shared/app/ProvingGroundApp$.class
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> shared/build/classes/main/hotmeatballsoup/provingground/shared/app/ProvingGroundApp$delayedInit$body.class
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> shared/build/classes/main/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.class
+binary dependencies:
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGround.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGround.scala -> /Users/zac.harvey/.gradle/caches/modules-2/files-2.1/org.jmonkeyengine/jme3-core/3.1.0-beta1/f62b2637b01033152c0938c2dd36228e430767b4/jme3-core-3.1.0-beta1.jar
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGround.scala -> /Users/zac.harvey/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGround.scala -> /Users/zac.harvey/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.22/a1c83373863cec7ae8d89dc1c5722d8cb6ec0309/slf4j-api-1.7.22.jar
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_92.jdk/Contents/Home/jre/lib/rt.jar
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> /Users/zac.harvey/.gradle/caches/modules-2/files-2.1/org.jmonkeyengine/jme3-core/3.1.0-beta1/f62b2637b01033152c0938c2dd36228e430767b4/jme3-core-3.1.0-beta1.jar
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> /Users/zac.harvey/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.8/ddd5a8bced249bedd86fb4578a39b9fb71480573/scala-library-2.11.8.jar
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> /Users/zac.harvey/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.22/a1c83373863cec7ae8d89dc1c5722d8cb6ec0309/slf4j-api-1.7.22.jar
+source dependencies:
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGround.scala
+external dependencies:
+class names:
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGround.scala -> hotmeatballsoup.provingground.shared.app.ProvingGround
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> hotmeatballsoup.provingground.shared.app.ProvingGroundApp
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> hotmeatballsoup.provingground.shared.app.ProvingGroundApp$
+   shared/src/main/scala/hotmeatballsoup/provingground/shared/app/ProvingGroundApp.scala -> hotmeatballsoup.provingground.shared.app.ProvingGroundApp$delayedInit$body

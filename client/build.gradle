@@ -1,0 +1,9 @@
+dependencies {
+    compile project(':shared')
+
+    compile(
+    )
+
+    testCompile (
+    )
+}
